@@ -1,4 +1,4 @@
-dev: order-env
+env: order-dev
 spring:
   application:
     name: order
