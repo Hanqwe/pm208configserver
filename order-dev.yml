@@ -1,3 +1,4 @@
+dev: order-dev
 spring:
   application:
     name: order
