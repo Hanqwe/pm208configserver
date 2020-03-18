@@ -17,7 +17,7 @@ spring:
     encoding:
       force-response: true
   rabbitmq:
-    host: 192.168.0.116
+    host: 192.168.1.18
     username: guest
     password: guest
     port: 5672
