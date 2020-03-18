@@ -1,4 +1,4 @@
-env: product-dev3
+env: product-dev2
 server:
   port: 8088
 # eureka:
